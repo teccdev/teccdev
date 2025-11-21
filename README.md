@@ -5,10 +5,10 @@
 <a href="https://www.codewars.com/users/teccin" target="_blank"><img alt="codewars rank" title="My CodeWars profile" src="https://www.codewars.com/users/teccin/badges/large?logo=false"/></a>
 
 ### ✉️ Contact
-[![email](https://img.shields.io/badge/Email-white?logo=gmail&logoColor=black&style=for-the-badge)](mailto:teccdev@proton.me) 
+[![email](https://img.shields.io/badge/Email-white?logo=gmail&logoColor=black&style=for-the-badge)](mailto:teccin@proton.me) 
 
 ### ℹ️ About me
-> 💻 fullstack web (React & Node.js), Python, and Rust<br>💡 learning C and Kotlin<br>🌎 US<br>🌐 speaks EN, ES, EO
+> 💻 fullstack web (React & Node.js), Python, and Rust<br>🌎 USA<br>🌐 English, Spanish
 
 
 # 💻 Tech Stack:
